@@ -10,6 +10,7 @@ import logging
 from google import genai # <-- NUEVO
 from google.genai import types # <-- NUEVO (Para EmbedContentConfig)
 import logging
+import json
 
 
 # Cargar variables de entorno
@@ -17,6 +18,7 @@ load_dotenv('cred.env')
 
 EMBEDDING_MODEL = 'text-embedding-004'
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+MODEL_GENERATION = 'gemini-2.5-flash' # Elegimos un modelo rápido y potente
 
 try:
     # Usamos el Cliente Síncrono estándar, la sintaxis que funcionó en vector_generator.py
@@ -186,16 +188,19 @@ def get_db_pool():
 # ----------------------------------------------------
 # 4. Endpoint de Búsqueda Semántica
 # ----------------------------------------------------
-@app.post("/propiedades/search/semantic", summary="Búsqueda Semántica de Propiedades")
+# main.py
+
+@app.post("/propiedades/search/semantic", summary="Búsqueda Semántica de Propiedades (RAG activado)")
 async def search_properties(
     data: SearchQuery,
-    pool:asyncpg.Pool = Depends(get_db_pool)
-    ):
+    pool: asyncpg.Pool = Depends(get_db_pool)
+):
     """
-    Busca propiedades en la base de datos utilizando embeddings vectoriales (pgvector).
-    La búsqueda se realiza basándose en la similitud de significado (semántica) de la consulta.
+    Busca propiedades usando embeddings y genera un resumen inteligente (RAG)
+    explicando la coincidencia.
     """
     try:
+        # 1. Ejecutar la búsqueda semántica (Recuperación)
         results = await search_properties_semantic(
             pool, 
             query=data.query, 
@@ -204,16 +209,65 @@ async def search_properties(
         
         if 'error' in results:
             raise HTTPException(status_code=500, detail=results['error'])
-            
+        
+        # 2. Generar el resumen RAG (Aumento/Generación)
+        rag_summary = await generate_rag_summary(data.query, results)
+
+        # 3. Devolver la respuesta enriquecida
         return {
             "query": data.query,
+            "rag_summary": rag_summary, # <-- ¡NUEVO CAMPO CON EL RESUMEN DEL LLM!
             "results": results,
             "count": len(results)
         }
+        
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error interno del servidor: {e}")
     
 
+# main.py
+
+async def generate_rag_summary(query: str, properties: list) -> str:
+    """Genera un resumen persuasivo usando el LLM (RAG) basado en la query y las propiedades recuperadas."""
+    
+    # 1. Preparar el Contexto (solo los datos esenciales)
+    context_data = [
+        {
+            "id": p['id_propiedad'],
+            "titulo": p['titulo'],
+            "precio": p['precio'],
+            "descripcion": p['descripcion_ia'] # Usamos la descripción vectorizada
+        } for p in properties
+    ]
+    
+    # 2. Definir el Prompt
+    system_instruction = (
+        "Eres un experto agente inmobiliario virtual. Analiza la búsqueda del usuario y la lista de propiedades recuperadas "
+        "para generar un párrafo persuasivo y conciso (máximo 4-5 frases) que explique por qué estas propiedades son las más adecuadas. "
+        "Resalta las características que coinciden semánticamente con la query del usuario. No repitas la query ni listes las propiedades. "
+        "Simplemente da un resumen de la coincidencia general."
+    )
+    
+    user_prompt = (
+        f"1. Búsqueda del Usuario: '{query}'\n"
+        f"2. Propiedades Recuperadas:\n{json.dumps(context_data, indent=2)}\n\n"
+        f"Genera el resumen de coincidencia (máximo 4-5 frases) en español. Solo el párrafo, sin títulos."
+    )
+
+    # 3. Llamar al LLM
+    try:
+        response = await asyncio.to_thread(
+            gemini_client.models.generate_content,
+            model=MODEL_GENERATION,
+            contents=[user_prompt],
+            config=types.GenerateContentConfig(
+                system_instruction=system_instruction
+            )
+        )
+        return response.text.strip()
+        
+    except Exception as e:
+        return "No fue posible generar el resumen de coincidencia en este momento."
 
 
 # ----------------------------------------------------
