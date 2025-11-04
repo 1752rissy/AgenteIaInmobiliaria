@@ -1,0 +1,2510 @@
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-302 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Encontrá comodidad en este departamento de 1 dormitorio!',
+    'Beato Roque González N° 868',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8944838, -27.3580968), 4326),
+    'Departamento',
+    1,
+    65,
+    900000.0,
+    'ARS',
+    $$ Encontrá comodidad en este departamento de 1 dormitorio
+
+
+
+Ubicación: Beato Roque González 868, ciudad de Posadas
+
+Edificio "Puerta Real"
+
+
+
+Características principales:
+
+Superficie de 65m2
+
+1 dormitorio con placard.
+
+Escritorio o segundo dormitorio 
+
+1 baño completo.
+
+Living - Comedor amplio y luminoso.
+
+Lavadero.
+
+AA en todos los ambientes
+
+Cochera 
+
+
+
+
+
+Características del Edificio:
+
+SUM (Salón de Usos Múltiples) para tus eventos y reuniones.
+
+Gimnasio equipado para mantenerte en forma.
+
+Terraza chica para disfrutar del aire libre.
+
+Estacionamiento privado (sin cochera incluida con el departamento).
+
+Servicio de portería las 24 horas para tu seguridad y comodidad.
+
+
+
+Detalles adicionales:
+
+Actualización semestral (coeficiente de ajuste IPC); contrato por 2 años sujeto a reforma Decreto 70/2023. (Canon mensual comprende Alquiler y expensa fija semestral). $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-301 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Encontrá comodidad en este departamento de 1 dormitorio',
+    'Beato Roque González N° 868',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8944838, -27.3580968), 4326),
+    'Departamento',
+    1,
+    65,
+    900000.0,
+    'ARS',
+    $$ Encontrá comodidad en este departamento de 1 dormitorio
+
+
+
+Ubicación: Beato Roque González 868, ciudad de Posadas
+
+Edificio "Puerta Real"
+
+
+
+Características principales:
+
+Superficie de 65m2
+
+1 Dormitorio, 
+
+1 baño 
+
+Escritorio (2 ° habitación chica), 
+
+Living - comedor, 
+
+Lavadero, 
+
+AA en todos los ambientes, 
+
+sin balcón, 
+
+con un espacio de cochera.
+
+
+
+
+
+Características del Edificio:
+
+SUM (Salón de Usos Múltiples) para tus eventos y reuniones.
+
+Gimnasio equipado para mantenerte en forma.
+
+Terraza chica para disfrutar del aire libre.
+
+Estacionamiento privado (sin cochera incluida con el departamento).
+
+Servicio de portería las 24 horas para tu seguridad y comodidad.
+
+
+
+Detalles adicionales:
+
+Actualización semestral (coeficiente de ajuste IPC); contrato por 2 años sujeto a reforma Decreto 70/2023. (Canon mensual comprende Alquiler y expensa fija semestral).
+
+
+
+CONSULTANOS!! $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-300 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Excelente y amplio departamento de 2 dormitorios en ALQUILER',
+    'Ayacucho N° 1376',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8959474, -27.3609297), 4326),
+    'Departamento',
+    2,
+    80,
+    1300000.0,
+    'ARS',
+    $$ ¡Descubrí tu nuevo hogar en Posadas!
+
+
+
+Bienvenido a este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad.
+
+Con todas las comodidades que puedas imaginar, este espacio está diseñado para quienes valoran el estilo de vida urbano sin renunciar a la tranquilidad y el bienestar.
+
+
+
+Ubicación: Ayacucho 1376, ciudad de Posadas, Misiones.
+
+Edificio "Puerta de Alcalá"
+
+
+
+Características del Departamento:
+
+Superficie de 80 m2
+
+cocina
+
+living - comedor
+
+lavadero
+
+2 dormitorios
+
+2 baños
+
+AA en todos los ambientes
+
+balcón
+
+cochera
+
+
+
+Este edificio de primera categoría cuenta con una variedad de amenities de lujo, incluyendo: pileta, solárium, gimnasio, salón de usos múltiples, sauna, servicio de portería las 24 hs.
+
+Acceso a todos los servicios. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-298 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Excelente y amplio departamento de 2 dormitorios en ALQUILER',
+    'Ayacucho N° 1376',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8959474, -27.3609297), 4326),
+    'Departamento',
+    2,
+    80,
+    1200000.0,
+    'ARS',
+    $$ ¡Descubrí tu nuevo hogar en Posadas!
+
+
+
+Bienvenido a este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad.
+
+Con todas las comodidades que puedas imaginar, este espacio está diseñado para quienes valoran el estilo de vida urbano sin renunciar a la tranquilidad y el bienestar.
+
+
+
+Ubicación: Ayacucho 1376, ciudad de Posadas, Misiones.
+
+Edificio "Puerta de Alcalá"
+
+
+
+Características del Departamento:
+
+Superficie de 80 m2
+
+cocina
+
+living - comedor
+
+lavadero
+
+2 dormitorios
+
+2 baños
+
+AA en todos los ambientes
+
+balcón
+
+cochera
+
+
+
+Este edificio de primera categoría cuenta con una variedad de amenities de lujo, incluyendo: pileta, solárium, gimnasio, salón de usos múltiples, sauna, servicio de portería las 24 hs.
+
+Acceso a todos los servicios. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-297 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Excelente departamento de 1 dormitorio - centro de Posadas',
+    'Ayacucho N° 1376',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8959474, -27.3609297), 4326),
+    'Departamento',
+    1,
+    67,
+    890000.0,
+    'ARS',
+    $$ Ubicación: Ayacucho 1376, ciudad de Posadas.
+
+Edificio "Puerta de Alcalá"
+
+
+
+
+
+Bienvenido a este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad.
+
+Con todas las comodidades que podés imaginar, este espacio está diseñado para quienes valoran el estilo de vida urbano sin renunciar a la tranquilidad y el bienestar.
+
+
+
+Características principales 
+
+Superficie de 67 m2:
+
+1 dormitorios: Amplios espacios diseñados para el descanso y la intimidad.
+
+1 baño
+
+Living - Comedor y Lavadero: Espacios integrados para disfrutar y facilitar las tareas diarias.
+
+AA en todos los Ambientes: Climatización perfecta durante todo el año.
+
+Cochera
+
+
+
+Aménities del edificio: pileta, solárium, gimnasio, sum, sauna y servicio de portería las 24 horas. -
+
+
+
+
+
+Detalles adicionales:
+
+Actualización Semestral: Ajuste según el coeficiente IPC para mantener la estabilidad económica.
+
+Contrato por 2 años: Tranquilidad y previsión
+
+Canon Mensual: Incluye alquiler y expensa fija semestral para una gestión sin complicaciones. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-296 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Excelente y amplio departamento de 2 dormitorios en ALQUILER',
+    'Ayacucho N° 1376',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8959474, -27.3609297), 4326),
+    'Departamento',
+    2,
+    80,
+    1200000.0,
+    'ARS',
+    $$ ¡Descubrí tu nuevo hogar en Posadas!
+
+
+
+Bienvenido a este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad.
+
+Con todas las comodidades que puedas imaginar, este espacio está diseñado para quienes valoran el estilo de vida urbano sin renunciar a la tranquilidad y el bienestar.
+
+
+
+Ubicación: Ayacucho 1376, ciudad de Posadas, Misiones.
+
+Edificio "Puerta de Alcalá"
+
+
+
+Características del Departamento:
+
+Superficie de 80 m2
+
+cocina
+
+living - comedor
+
+lavadero
+
+2 dormitorios
+
+2 baños
+
+AA en todos los ambientes
+
+balcón
+
+cochera
+
+
+
+Este edificio de primera categoría cuenta con una variedad de amenities de lujo, incluyendo: pileta, solárium, gimnasio, salón de usos múltiples, sauna, servicio de portería las 24 hs.
+
+Acceso a todos los servicios. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-295 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Hermoso departamento de 2 dormitorios, excelente ubicación',
+    'San Martín N° 2180',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-58.3698732, -34.7248909), 4326),
+    'Departamento',
+    2,
+    100,
+    1300000.0,
+    'ARS',
+    $$ ORENSE Propiedades ofrece en alquiler este espacioso departamento de primera categoría, ubicado en un lugar estratégico de la ciudad de Posadas.
+
+
+
+Ubicación: San Martin 2180, Posadas.
+
+Edificio "Puerta de Hierro"
+
+
+
+
+
+Características:
+
+Superficie de 100m2.
+
+dos dormitorios; 
+
+tres baños (uno en suite, uno social y uno compartido); 
+
+living - comedor; 
+
+lavadero; 
+
+balcón vista hacia calle Junín; 
+
+termotanque; 
+
+AA en todos los ambientes; 
+
+portero eléctrico; 
+
+espacio de cochera incluido.
+
+
+
+Acceso a los amenities del edificio: pileta, solárium, gimnasio, sum x2, sauna, hidromasaje.
+
+
+
+Cuenta con servicio de portería las 24 horas.
+
+
+
+Detalles adicionales:
+
+Actualización Semestral: Ajuste según el coeficiente IPC para mantener la estabilidad económica.
+
+Contrato por 2 años: Tranquilidad y previsión
+
+Canon Mensual: Incluye alquiler y expensa fija semestral para una gestión sin complicaciones. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-294 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Departamento de 3 dormitorios, primera categoría',
+    'Ayacucho N° 1376',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8959474, -27.3609297), 4326),
+    'Departamento',
+    3,
+    162,
+    1600000.0,
+    'ARS',
+    $$ Bienvenido a este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Con todas las comodidades que podés imaginar, este espacio está diseñado para quienes valoran el estilo de vida urbano sin renunciar a la tranquilidad y el bienestar.
+
+
+
+Ubicación: Ayacucho 1376, ciudad de Posadas.
+
+Edificio "Puerta de Alcalá"
+
+
+
+Características principales
+
+Superficie de 162 m2:
+
+Tres Dormitorios, 
+
+Tres baños, 
+
+Living - comedor, 
+
+cocina, 
+
+lavadero, 
+
+AA en todos los ambientes, 
+
+ascensor privado interno, 
+
+balcón amplio 
+
+VISTA FRENTE hacia calle Ayacucho,
+
+espacio de cochera.
+
+
+
+Aménities del edificio: pileta, solárium, gimnasio, sum, sauna y servicio de portería las 24 horas. -
+
+
+
+
+
+Detalles adicionales:
+
+Actualización Semestral: Ajuste según el coeficiente IPC para mantener la estabilidad económica.
+
+Contrato por 2 años: Tranquilidad y previsión
+
+Canon Mensual: Incluye alquiler y expensa fija semestral para una gestión sin complicaciones. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-293 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Departamento de 2 dormitorios, excelente ubicación',
+    'San Martín N° 2180',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-58.3698732, -34.7248909), 4326),
+    'Departamento',
+    2,
+    100,
+    1300000.0,
+    'ARS',
+    $$ ORENSE Propiedades ofrece en alquiler este espacioso departamento de primera categoría, ubicado en un lugar estratégico de la ciudad de Posadas.
+
+
+
+Ubicación: San Martin 2180, Posadas.
+
+Edificio "Puerta de Hierro"
+
+
+
+
+
+Características:
+
+Superficie de 100m2.
+
+dos dormitorios; 
+
+tres baños (uno en suite, uno social y uno compartido); 
+
+living - comedor; 
+
+lavadero; 
+
+balcón vista hacia calle Junín; 
+
+termotanque; 
+
+AA en todos los ambientes; 
+
+portero eléctrico; 
+
+espacio de cochera incluido.
+
+
+
+Acceso a los amenities del edificio: pileta, solárium, gimnasio, sum x2, sauna, hidromasaje.
+
+
+
+Cuenta con servicio de portería las 24 horas.
+
+
+
+Detalles adicionales:
+
+Actualización Semestral: Ajuste según el coeficiente IPC para mantener la estabilidad económica.
+
+Contrato por 2 años: Tranquilidad y previsión
+
+Canon Mensual: Incluye alquiler y expensa fija semestral para una gestión sin complicaciones. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-292 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    '5% OFF en Octubre - Departamento de 1 dormitorio',
+    'Beato Roque González N° 868',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8944838, -27.3580968), 4326),
+    'Departamento',
+    1,
+    65,
+    850000.0,
+    'ARS',
+    $$ Encontrá comodidad en este departamento de 1 dormitorio
+
+
+
+Ubicación: Beato Roque González 868, ciudad de Posadas
+
+Edificio "Puerta Real"
+
+
+
+Características principales:
+
+Superficie de 65m2
+
+1 Dormitorio, 
+
+1 baño 
+
+Escritorio (2 ° habitación chica), 
+
+Living - comedor, 
+
+Lavadero, 
+
+AA en todos los ambientes, 
+
+sin balcón, 
+
+con un espacio de cochera.
+
+
+
+
+
+Características del Edificio:
+
+SUM (Salón de Usos Múltiples) para tus eventos y reuniones.
+
+Gimnasio equipado para mantenerte en forma.
+
+Terraza chica para disfrutar del aire libre.
+
+Estacionamiento privado (sin cochera incluida con el departamento).
+
+Servicio de portería las 24 horas para tu seguridad y comodidad.
+
+
+
+Detalles adicionales:
+
+Actualización semestral (coeficiente de ajuste IPC); contrato por 2 años sujeto a reforma Decreto 70/2023. (Canon mensual comprende Alquiler y expensa fija semestral).
+
+
+
+CONSULTANOS!! $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-291 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    '5% OFF en OCTUBRE - Amplio departamento de 2 dormitorios',
+    'Beato Roque González N° 868',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8944838, -27.3580968), 4326),
+    'Departamento',
+    2,
+    105,
+    1250000.0,
+    'ARS',
+    $$ Alquiler de excelente departamento de 2 dormitorios en la ciudad de Posadas! 
+
+
+
+Te presentamos este espacioso departamento de 105 m2, ideal para residir en la ciudad de Posadas, provincia de Misiones.
+
+Ubicado en el edificio Puerta Real, sobre calle Beato Roque González 868.
+
+Cuenta con un acogedor living-comedor, lavadero y aire acondicionado en todos los ambientes.
+
+
+
+Características principales:
+
+2 dormitorios.
+
+3 baños: Uno en Suite, uno compartido, y uno social) 
+
+Living - comedor, 
+
+cocina, 
+
+lavadero, 
+
+AA en todos los ambientes, 
+
+balcón, VISTA frente hacia la calle Beato Roque González, 
+
+2 ° balcón lateral con parrilla; techado con vista hacia calle Pedernera, 
+
+un espacio de cochera incluido
+
+
+
+
+
+Características del Edificio:
+
+SUM (Salón de Usos Múltiples) para tus eventos y reuniones.
+
+Gimnasio equipado para mantenerte en forma.
+
+Terraza chica para disfrutar del aire libre.
+
+Estacionamiento privado.
+
+Servicio de portería las 24 horas para tu seguridad y comodidad.
+
+
+
+Detalles adicionales:
+
+Actualización semestral (coeficiente de ajuste IPC); contrato por 2 años sujeto a reforma Decreto 70/2023. (Canon mensual comprende Alquiler y expensa fija semestral). $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-289 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Encontrá comodidad en este departamento de 1 dormitorio',
+    'Beato Roque González N° 868',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8944838, -27.3580968), 4326),
+    'Departamento',
+    1,
+    65,
+    950000.0,
+    'ARS',
+    $$ Encontrá comodidad en este departamento de 1 dormitorio
+
+
+
+Ubicación: Beato Roque González 868, ciudad de Posadas
+
+Edificio "Puerta Real"
+
+
+
+Características principales:
+
+Superficie de 65m2
+
+1 Dormitorio, 
+
+1 baño 
+
+Escritorio (2 ° habitación chica), 
+
+Living - comedor, 
+
+Lavadero, 
+
+AA en todos los ambientes, 
+
+sin balcón, 
+
+con un espacio de cochera.
+
+
+
+
+
+Características del Edificio:
+
+SUM (Salón de Usos Múltiples) para tus eventos y reuniones.
+
+Gimnasio equipado para mantenerte en forma.
+
+Terraza chica para disfrutar del aire libre.
+
+Estacionamiento privado (sin cochera incluida con el departamento).
+
+Servicio de portería las 24 horas para tu seguridad y comodidad.
+
+
+
+Detalles adicionales:
+
+Actualización semestral (coeficiente de ajuste IPC); contrato por 2 años sujeto a reforma Decreto 70/2023. (Canon mensual comprende Alquiler y expensa fija semestral).
+
+
+
+CONSULTANOS!! $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-284 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Departamento de 2 dormitorios, excelente ubicación - Posadas',
+    'San Martín N° 2180',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-58.3698732, -34.7248909), 4326),
+    'Departamento',
+    2,
+    105,
+    1350000.0,
+    'ARS',
+    $$ Céntrico departamento de 2 dormitorios en ciudad de Posadas
+
+
+
+Ubicación: San Martin 2180, Posadas.
+
+Edificio "Puerta de Hierro"
+
+
+
+ORENSE Propiedades ofrece en alquiler este espacioso departamento de primera categoría, ubicado en un lugar estratégico de la ciudad de Posadas.
+
+
+
+Características 
+
+Superficie de 105m2
+
+Cuenta con:
+
+dos dormitorios amplios y luminosos.
+
+tres baños: suite, social, compartido.
+
+cocina, 
+
+living comedor,
+
+lavadero,
+
+balcón vista frente hacia San Martin, y un segundo balcón interno,
+
+espacio de cochera.
+
+
+
+
+
+Acceso a los amenities del edificio: pileta, solárium, gimnasio, sum x2, sauna, hidromasaje.
+
+
+
+Cuenta con servicio de portería las 24 horas.
+
+
+
+Detalles adicionales:
+
+Actualización Semestral: Ajuste según el coeficiente IPC para mantener la estabilidad económica.
+
+Contrato por 2 años: Tranquilidad y previsión
+
+Canon Mensual: Incluye alquiler y expensa fija semestral para una gestión sin complicaciones. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-279 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Departamento de 3 dormitorios, primera categoría',
+    'Ayacucho N° 1376',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8959474, -27.3609297), 4326),
+    'Departamento',
+    3,
+    162,
+    1500000.0,
+    'ARS',
+    $$ Bienvenido a este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Con todas las comodidades que podés imaginar, este espacio está diseñado para quienes valoran el estilo de vida urbano sin renunciar a la tranquilidad y el bienestar.
+
+
+
+Ubicación: Ayacucho 1376, ciudad de Posadas.
+
+Edificio "Puerta de Alcalá"
+
+
+
+Características principales
+
+Superficie de 162 m2:
+
+Tres Dormitorios, 
+
+Tres baños, 
+
+Living - comedor, 
+
+cocina, 
+
+lavadero, 
+
+AA en todos los ambientes, 
+
+ascensor privado interno, 
+
+balcón amplio 
+
+VISTA FRENTE hacia calle Ayacucho,
+
+espacio de cochera.
+
+
+
+Aménities del edificio: pileta, solárium, gimnasio, sum, sauna y servicio de portería las 24 horas. -
+
+
+
+
+
+Detalles adicionales:
+
+Actualización Semestral: Ajuste según el coeficiente IPC para mantener la estabilidad económica.
+
+Contrato por 2 años: Tranquilidad y previsión
+
+Canon Mensual: Incluye alquiler y expensa fija semestral para una gestión sin complicaciones. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-278 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    '5% OFF en Octubre - Céntrico departamento de 2 dormitorios',
+    'Beato Roque González N° 868',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8944838, -27.3580968), 4326),
+    'Departamento',
+    2,
+    105,
+    1250000.0,
+    'ARS',
+    $$ Alquiler de excelente departamento de 2 dormitorios en la ciudad de Posadas! 
+
+
+
+Te presentamos este espacioso departamento de 105 m2, ideal para residir en la ciudad de Posadas, provincia de Misiones.
+
+Ubicado en el edificio Puerta Real, sobre calle Beato Roque González 868.
+
+Cuenta con un acogedor living-comedor, lavadero y aire acondicionado en todos los ambientes.
+
+
+
+Características principales:
+
+2 dormitorios.
+
+3 baños: Uno en Suite, uno compartido, y uno social) 
+
+Living - comedor, 
+
+cocina, 
+
+lavadero, 
+
+AA en todos los ambientes, 
+
+balcón, VISTA frente hacia la calle Beato Roque González, 
+
+2 ° balcón lateral con parrilla; techado con vista hacia calle Pedernera, 
+
+un espacio de cochera incluido
+
+
+
+
+
+Características del Edificio:
+
+SUM (Salón de Usos Múltiples) para tus eventos y reuniones.
+
+Gimnasio equipado para mantenerte en forma.
+
+Terraza chica para disfrutar del aire libre.
+
+Estacionamiento privado.
+
+Servicio de portería las 24 horas para tu seguridad y comodidad.
+
+
+
+Detalles adicionales:
+
+Actualización semestral (coeficiente de ajuste IPC); contrato por 2 años sujeto a reforma Decreto 70/2023. (Canon mensual comprende Alquiler y expensa fija semestral). $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-276 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    '5% OFF en OCTUBRE - Departamento de 1 dormitorio',
+    'Beato Roque González N° 868',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8944838, -27.3580968), 4326),
+    'Departamento',
+    1,
+    65,
+    900000.0,
+    'ARS',
+    $$ Encontrá comodidad en este departamento de 1 dormitorio
+
+
+
+Ubicación: Beato Roque González 868, ciudad de Posadas
+
+Edificio "Puerta Real"
+
+
+
+Características principales:
+
+Superficie de 65m2
+
+1 dormitorio con placard.
+
+Escritorio o segundo dormitorio 
+
+1 baño completo.
+
+Living - Comedor amplio y luminoso.
+
+Lavadero.
+
+AA en todos los ambientes
+
+Cochera 
+
+
+
+
+
+Características del Edificio:
+
+SUM (Salón de Usos Múltiples) para tus eventos y reuniones.
+
+Gimnasio equipado para mantenerte en forma.
+
+Terraza chica para disfrutar del aire libre.
+
+Estacionamiento privado (sin cochera incluida con el departamento).
+
+Servicio de portería las 24 horas para tu seguridad y comodidad.
+
+
+
+Detalles adicionales:
+
+Actualización semestral (coeficiente de ajuste IPC); contrato por 2 años sujeto a reforma Decreto 70/2023. (Canon mensual comprende Alquiler y expensa fija semestral). $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-246 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    '5% OFF en OCTUBRE - Duplex impresionante vista al rio!!',
+    'López Torres N° 4881',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8922896, -27.3838912), 4326),
+    'Departamento',
+    2,
+    144,
+    1000000.0,
+    'ARS',
+    $$ Esplendido duplex con vista al rio a estrenar!
+
+
+
+Descubrí el lujo contemporáneo en Torre Ipanema.
+
+Este dúplex a estrenar te ofrece más que una vivienda: un estilo de vida exclusivo con vistas panorámicas al majestuoso Río Paraná. cada detalle ha sido pensado para ofrecer comodidad y elegancia.
+
+ Vive la experiencia de lujo que mereces.
+
+
+
+(Dpto. Dúplex (piso 13) Central; Dos Dormitorios, Dos Baños, Living - comedor, lavadero amplio, AA en todos los ambientes, sin balcón, vista hacia Calle Monteagudo y panorámica de la costanera y el rio con un espacio de cochera). 
+
+Actualización semestral (coeficiente de ajuste IPC); contrato por 2 años; sujeto a reforma Decreto 70/2023. (Canon mensual comprende Solo Alquiler, y Aparte las expensas).
+
+
+
+
+
+Contáctanos hoy mismo para conocer más sobre esta oportunidad única. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-244 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    '5% OFF en OCTUBRE - Departamento vista al río. Torre Ipanema',
+    'López Torres N° 4881',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8922896, -27.3838912), 4326),
+    'Departamento',
+    1,
+    71,
+    800000.0,
+    'ARS',
+    $$ Unidad funcional frente, Av. costanera al 7000
+
+1 dormitorio
+
+1baño
+
+Cocina
+
+Living/comedor
+
+Amplio pasillo de ingreso
+
+Vista panorámica hacia el rio Paraná
+
+Descubrí el lujo contemporáneo en Torre Ipanema.
+
+Este departamento a estrenar te ofrece más que una vivienda: un estilo de vida exclusivo con vistas panorámicas al majestuoso Río Paraná. Cada detalle ha sido pensado para ofrecer comodidad y elegancia.
+
+
+
+
+
+Contáctanos hoy mismo para conocer más sobre esta oportunidad única. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-110 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    '5% OFF en OCTUBRE - Cómodo departamento de 1 dormitorio',
+    'Beato Roque González N° 868',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8944838, -27.3580968), 4326),
+    'Departamento',
+    1,
+    65,
+    950000.0,
+    'ARS',
+    $$ Encontrá comodidad en este departamento de 1 dormitorio
+
+
+
+Ubicación: Beato Roque González 868, ciudad de Posadas
+
+Edificio "Puerta Real"
+
+
+
+Características principales (UF 15C):
+
+Superficie de 65m2
+
+1 Dormitorio, 
+
+1 baño 
+
+Escritorio (2 ° habitación chica), 
+
+Living - comedor, 
+
+Lavadero, 
+
+AA en todos los ambientes, 
+
+sin balcón, 
+
+con un espacio de cochera.
+
+
+
+
+
+Características del Edificio:
+
+SUM (Salón de Usos Múltiples) para tus eventos y reuniones.
+
+Gimnasio equipado para mantenerte en forma.
+
+Terraza chica para disfrutar del aire libre.
+
+Estacionamiento privado (sin cochera incluida con el departamento).
+
+Servicio de portería las 24 horas para tu seguridad y comodidad.
+
+
+
+Detalles adicionales:
+
+Actualización semestral (coeficiente de ajuste IPC); contrato por 2 años sujeto a reforma Decreto 70/2023. (Canon mensual comprende Alquiler y expensa fija semestral).
+
+
+
+DISPONIBLE a partir de AGOSTO 2025 $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-100 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Importante local comercial Ruta 12 y rotonda',
+    'Ruta 12 S/N',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.9756256, -27.4641355), 4326),
+    'Departamento',
+    0,
+    3900,
+    20000000.0,
+    'ARS',
+    $$ IMPORTANTE LOCAL COMERCIAL comercial vidriado de 3.900 M2, situado en RUTA NACIONAL N ° 12 (FRENTE) , entre Calles, N ° 126 LUIS QUARANTA y CALLE 126 A CERRITO (Rotonda Posadas)_ Descripción Local: Dispone de Dos (2) plantas, (Salones comerciales de exposición, Depósito chico en planta baja, acopio y oficinas administrativas ;Sector de depósito y/o archivo: Cuenta con un amplio depósito de aproximadamente 90M2 con unidades construidas para resguardo de documentación (ARCHIVO) Y dos portones de acceso por calle 126  LUIS QUARANTA y calle 126 A CERRITO; Salón central: Planta baja todo el perímetro vidriado con buena iluminación, Y cuenta con tres portones de acceso por:(RUTA 12, QUARANTA, Y CALLE CERRITO/ADOQUIN); Una Escalera central de acceso a la planta alta 2 ° piso (SALON COMERCIAL) con perímetro vidriado; Seguridad Contra Incendio; Baños: planta baja; 2 baños, para dama y caballero.
+
+Actualización cuatrimestral; coheficiente de ajuste IPC; contrato 3 años_ (Alquiler). - $ 20.000.000,00 (MAS IVA). ENTREGA A ACORDAR $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-303 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Departamento de 2 dormitorios, excelente ubicación - Posadas',
+    'San Martín N° 2180',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-58.3698732, -34.7248909), 4326),
+    'Departamento',
+    2,
+    113,
+    1400000.0,
+    'ARS',
+    $$ Céntrico departamento de 2 dormitorios en ciudad de Posadas
+
+
+
+Ubicación: San Martin 2180, Posadas.
+
+Edificio "Puerta de Hierro"
+
+
+
+ORENSE Propiedades ofrece en alquiler este espacioso departamento de primera categoría, ubicado en un lugar estratégico de la ciudad de Posadas.
+
+
+
+Características
+
+Superficie de 113m2
+
+Cuenta con:
+
+dos dormitorios amplios y luminosos.
+
+tres baños: suite, social, compartido.
+
+cocina, 
+
+living comedor,
+
+lavadero,
+
+balcón Vista contra frente hacia Calle Sarmiento con una parrilla incluida
+
+balcón interno
+
+espacio de cochera.
+
+
+
+
+
+Acceso a los amenities del edificio: pileta, solárium, gimnasio, sum x2, sauna, hidromasaje.
+
+
+
+Cuenta con servicio de portería las 24 horas.
+
+
+
+Detalles adicionales:
+
+Actualización Semestral: Ajuste según el coeficiente IPC para mantener la estabilidad económica.
+
+Contrato por 2 años: Tranquilidad y previsión
+
+Canon Mensual: Incluye alquiler y expensa fija semestral para una gestión sin complicaciones. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-257 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Departamento con tres dormitorios, de primera categoría',
+    'Colón N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    3,
+    130,
+    1250000.0,
+    'ARS',
+    $$ Hermoso departamento de 1era categoría en ALQUILER
+
+
+
+ORENSE Propiedades te presenta este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Tiene todas las comodidades que necesitas, en un espacio amplio y luminoso.
+
+
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas - Edificio "Puerta del Sol"
+
+
+
+
+
+Características principales del Departamento 10 D
+
+cocina
+
+lavadero
+
+3 dormitorios amplios y luminosos, con placard
+
+3 baños completos
+
+living - comedor
+
+aire condicionado en todos los ambientes
+
+termotanque
+
+cochera
+
+balcón quincho con parrilla, vista Contra frente hacia la Calle San Lorenzo. 
+
+Actualización semestral (coeficiente de ajuste IPC); contrato por 2 años; sujeto a reforma Decreto 70/2023. (Canon mensual comprende Alquiler y expensa fija semestral).
+
+
+
+
+
+El edificio cuenta con:
+
+quincho con parrilla
+
+cochera
+
+pileta
+
+terraza solárium
+
+hidromasaje, sauna, gimnasio, sum
+
+servicio de portería las 24 horas.
+
+
+
+Actualización Semestral: Ajuste según el coeficiente IPC para mantener la estabilidad económica.
+
+Contrato por 2 años: Tranquilidad y previsión
+
+Canon Mensual: Incluye alquiler y expensas fijas semestral para una gestión sin complicaciones.
+
+
+
+CONSULTANOS!! $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-112 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Alquiler de excelente departamento de 2 dormitorios',
+    'Beato Roque González N° 868',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8944838, -27.3580968), 4326),
+    'Departamento',
+    2,
+    105,
+    1200000.0,
+    'ARS',
+    $$ Exclusivo departamento de 2 dormitorios en la ciudad de Posadas! - ALQUILER
+
+
+
+Te presentamos este espacioso departamento de 105 m2, ideal para residir en la ciudad de Posadas, provincia de Misiones.
+
+Ubicado en el edificio Puerta Real, sobre calle Beato Roque González 868.
+
+Cuenta con un acogedor living-comedor, lavadero y aire acondicionado en todos los ambientes.
+
+
+
+Características principales:
+
+2 dormitorios.
+
+3 baños: Uno en Suite, uno compartido, y uno social) 
+
+Living - comedor, 
+
+cocina, 
+
+lavadero, 
+
+AA en todos los ambientes, 
+
+balcón, VISTA frente hacia la calle Beato Roque González, 
+
+espacio de cochera
+
+
+
+
+
+Características del Edificio:
+
+SUM (Salón de Usos Múltiples) para tus eventos y reuniones.
+
+Gimnasio equipado para mantenerte en forma.
+
+Terraza chica para disfrutar del aire libre.
+
+Estacionamiento privado.
+
+Servicio de portería las 24 horas para tu seguridad y comodidad.
+
+
+
+Detalles adicionales:
+
+Actualización semestral (coeficiente de ajuste IPC); contrato por 2 años sujeto a reforma Decreto 70/2023. (Canon mensual comprende Alquiler y expensa fija semestral).
+
+
+
+DISPONIBLE a partir de ABRIL. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-274 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Duplex impresionante vista al rio!!',
+    'López Torres N° 4881',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8922896, -27.3838912), 4326),
+    'Departamento',
+    2,
+    144,
+    289200.0,
+    'ARS',
+    $$ Esplendido duplex con vista al rio a estrenar!
+
+
+
+Descubrí el lujo contemporáneo en Torre Ipanema.
+
+Este dúplex a estrenar te ofrece más que una vivienda: un estilo de vida exclusivo con vistas panorámicas al majestuoso Río Paraná. cada detalle ha sido pensado para ofrecer comodidad y elegancia.
+
+ Vive la experiencia de lujo que mereces.
+
+
+
+(Dpto. Dúplex (piso 13) Central; Dos Dormitorios, Dos Baños, Living - comedor, lavadero amplio, AA en todos los ambientes, sin balcón, vista hacia Calle Monteagudo y panorámica de la costanera y el rio 
+
+
+
+Contáctanos hoy mismo para conocer más sobre esta oportunidad única.
+
+
+
+Si estás pensando en adquirir este departamento, tenemos una excelente noticia: también podés sumar una cochera privada por u$s 25.000.Una opción que aporta comodidad, seguridad y valor a tu inversión. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-245 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Departamento en el emprendimiento  Ipanema',
+    'López Torres N° 4881',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8922896, -27.3838912), 4326),
+    'Departamento',
+    1,
+    71,
+    142000.0,
+    'ARS',
+    $$ Unidad funcional frente, Av. costanera al 7000
+
+1 dormitorio
+
+1baño
+
+Cocina
+
+Living/comedor
+
+Amplio pasillo de ingreso
+
+Vista panorámica hacia el rio Paraná
+
+Descubrí el lujo contemporáneo en Torre Ipanema.
+
+Este departamento a estrenar te ofrece más que una vivienda: un estilo de vida exclusivo con vistas panorámicas al majestuoso Río Paraná. Cada detalle ha sido pensado para ofrecer comodidad y elegancia.
+
+
+
+Financiación Exclusiva de hasta el 70%!
+
+
+
+Contáctanos hoy mismo para conocer más sobre esta oportunidad única. 
+
+
+
+Si estás pensando en adquirir este departamento, tenemos una excelente noticia: también podés sumar una cochera privada por u$s 25.000.Una opción que aporta comodidad, seguridad y valor a tu inversión. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-225 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Local Comercial en Venta: Ubicación estratégica en Posadas',
+    'Colón N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    0,
+    100,
+    300000.0,
+    'ARS',
+    $$ LOCAL COMERCIAL EN VENTA
+
+
+
+ORENSE Propiedades te ofrece esta oportunidad ideal para potenciar tu negocio o comenzar un proyecto.
+
+Ubicación estratégica
+
+Espacios amplios y funcionales
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas, Misiones.
+
+Edificio "Puerta del Sol"
+
+
+
+Características: Situado sobre la vía pública. Cuenta con salón de ventas, baño. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-224 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Local comercial en VENTA. Excelente ubicación.',
+    'Ayacucho N° 1376',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8959474, -27.3609297), 4326),
+    'Departamento',
+    0,
+    215,
+    430000.0,
+    'ARS',
+    $$ AMPLIO LOCAL COMERCIAL 
+
+
+
+ORENSE Propiedades te ofrece esta oportunidad ideal para potenciar tu negocio o comenzar un proyecto. 
+
+ Ubicación estratégica
+
+ Espacios amplios y funcionales
+
+ ¡Listo para que lo hagas tuyo!
+
+
+
+Ubicación: Ayacucho 1376, ciudad de Posadas, Misiones.
+
+Edificio "Puerta de Alcalá"
+
+
+
+Cuenta con:
+
+- salón de ventas
+
+- oficina
+
+- baño
+
+- depósito
+
+Situado sobre la vía pública $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-222 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Excelente departamento de 3 dormitorios',
+    'Colon N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    3,
+    127,
+    376284.0,
+    'ARS',
+    $$ ORENSE Propiedades te presenta este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Tiene todas las comodidades que necesitas, en un espacio amplio y luminoso.
+
+
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas - Edificio "Puerta del Sol"
+
+El edificio cuenta con:
+
+quincho con parrilla
+
+cochera
+
+pileta
+
+terraza solárium
+
+hidromasaje, sauna, gimnasio, sum
+
+servicio de portería las 24 horas.
+
+
+
+
+
+Características principales del departamento:
+
+tres dormitorios,
+
+tres baños,
+
+cocina,
+
+living comedor amplio,
+
+balcón,
+
+parrilla,
+
+lavadero con termotanque,
+
+aire condicionado en todos los ambientes
+
+termotanque
+
+cochera $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-221 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Hermoso semi-piso, cinco dormitorios',
+    'Colon N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    5,
+    250,
+    759374.0,
+    'ARS',
+    $$ ORENSE Propiedades te presenta este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Tiene todas las comodidades que necesitas, en un espacio amplio y luminoso.
+
+
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas - Edificio "Puerta del Sol"
+
+
+
+
+
+Características principales:
+
+cinco dormitorios,
+
+cinco baños,
+
+cocina con desayunador, campana extractora de aire, y taburetes,
+
+living comedor amplio,
+
+terraza balcón al frente y atrás, (barandas de acero inoxidable), con paños de vidrio laminado DVH,
+
+parrilla de acero inoxidable,
+
+estar y play-room.
+
+lavadero con termotanque,
+
+espacios de cochera en el edificio
+
+aire condicionado en todos los ambientes
+
+termotanque
+
+
+
+
+
+
+
+El edificio cuenta con:
+
+quincho con parrilla
+
+cochera
+
+pileta
+
+terraza solárium
+
+hidromasaje, sauna, gimnasio, sum
+
+servicio de portería las 24 horas. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-220 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Exclusivo departamento semi-piso en la ciudad de Posadas',
+    'Colon N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    5,
+    250,
+    759374.0,
+    'ARS',
+    $$ ORENSE Propiedades te presenta este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Tiene todas las comodidades que necesitas, en un espacio amplio y luminoso.
+
+
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas - Edificio "Puerta del Sol"
+
+
+
+
+
+Características principales:
+
+cinco dormitorios,
+
+cinco baños,
+
+cocina con desayunador, campana extractora de aire, y taburetes,
+
+living comedor amplio,
+
+terraza balcón al frente y atrás, (barandas de acero inoxidable), con paños de vidrio laminado DVH,
+
+parrilla de acero inoxidable,
+
+estar y play-room.
+
+lavadero con termotanque,
+
+espacios de cochera en el edificio
+
+aire condicionado en todos los ambientes
+
+termotanque
+
+
+
+
+
+
+
+El edificio cuenta con:
+
+quincho con parrilla
+
+cochera
+
+pileta
+
+terraza solárium
+
+hidromasaje, sauna, gimnasio, sum
+
+servicio de portería las 24 horas. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-219 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Departamento de 3 dormitorios, con balcón',
+    'Colon N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    3,
+    127,
+    367107.0,
+    'ARS',
+    $$ ORENSE Propiedades te presenta este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Tiene todas las comodidades que necesitas, en un espacio amplio y luminoso.
+
+
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas - Edificio "Puerta del Sol"
+
+
+
+
+
+Características principales:
+
+tres dormitorios,
+
+tres baños,
+
+cocina,
+
+living comedor amplio,
+
+balcón,
+
+parrilla,
+
+lavadero con termotanque,
+
+aire condicionado en todos los ambientes
+
+termotanque
+
+cochera
+
+
+
+
+
+
+
+El edificio cuenta con:
+
+quincho con parrilla
+
+cochera
+
+pileta
+
+terraza solárium
+
+hidromasaje, sauna, gimnasio, sum
+
+servicio de portería las 24 horas. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-218 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Excelente departamento con ambientes amplios y luminosos',
+    'Colon N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    3,
+    127,
+    367107.0,
+    'ARS',
+    $$ ORENSE Propiedades te presenta este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Tiene todas las comodidades que necesitas, en un espacio amplio y luminoso.
+
+
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas - Edificio "Puerta del Sol"
+
+
+
+
+
+Características principales:
+
+tres dormitorios,
+
+tres baños,
+
+cocina,
+
+living comedor amplio,
+
+balcón,
+
+parrilla,
+
+lavadero con termotanque,
+
+aire condicionado en todos los ambientes
+
+termotanque
+
+cochera
+
+
+
+
+
+
+
+El edificio cuenta con:
+
+quincho con parrilla
+
+cochera
+
+pileta
+
+terraza solárium
+
+hidromasaje, sauna, gimnasio, sum
+
+servicio de portería las 24 horas. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-217 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Hermoso departamento en el centro de Posadas',
+    'Colon N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    3,
+    127,
+    358153.0,
+    'ARS',
+    $$ ORENSE Propiedades te presenta este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Tiene todas las comodidades que necesitas, en un espacio amplio y luminoso.
+
+
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas - Edificio "Puerta del Sol"
+
+
+
+
+
+Características principales:
+
+tres dormitorios,
+
+tres baños,
+
+cocina,
+
+living comedor amplio,
+
+balcón,
+
+parrilla,
+
+lavadero con termotanque,
+
+aire condicionado en todos los ambientes
+
+termotanque
+
+cochera
+
+
+
+
+
+
+
+El edificio cuenta con:
+
+quincho con parrilla
+
+cochera
+
+pileta
+
+terraza solárium
+
+hidromasaje, sauna, gimnasio, sum
+
+servicio de portería las 24 horas. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-216 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Departamento de 3 dormitorios, 1ra categoría',
+    'Colon N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    3,
+    127,
+    358153.0,
+    'ARS',
+    $$ ORENSE Propiedades te presenta este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Tiene todas las comodidades que necesitas, en un espacio amplio y luminoso.
+
+
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas - Edificio "Puerta del Sol"
+
+
+
+
+
+Características principales:
+
+cocina,
+
+living comedor amplio,
+
+tres dormitorios,
+
+tres baños,
+
+lavadero con termotanque,
+
+aire condicionado en todos los ambientes
+
+termotanque
+
+balcón,
+
+parrilla,
+
+cochera
+
+
+
+
+
+
+
+El edificio cuenta con:
+
+quincho con parrilla
+
+cochera
+
+pileta
+
+terraza solárium
+
+hidromasaje, sauna, gimnasio, sum
+
+servicio de portería las 24 horas. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-215 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Departamento en el emprendimiento Edificio Puerta del Sol',
+    'Colon N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    3,
+    127,
+    349418.0,
+    'ARS',
+    $$ ORENSE Propiedades te presenta este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Tiene todas las comodidades que necesitas, en un espacio amplio y luminoso.
+
+
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas - Edificio "Puerta del Sol"
+
+
+
+
+
+Características principales:
+
+tres dormitorios,
+
+tres baños,
+
+cocina,
+
+living comedor amplio,
+
+balcón,
+
+parrilla,
+
+lavadero con termotanque,
+
+aire condicionado en todos los ambientes
+
+termotanque
+
+cochera
+
+
+
+
+
+
+
+El edificio cuenta con:
+
+quincho con parrilla
+
+cochera
+
+pileta
+
+terraza solárium
+
+hidromasaje, sauna, gimnasio, sum
+
+servicio de portería las 24 horas. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-214 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Hermoso departamento de cuatro dormitorios y amplia terraza',
+    'Colon N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    4,
+    560,
+    959998.0,
+    'ARS',
+    $$ ORENSE Propiedades te presenta este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Tiene todas las comodidades que necesitas, en un espacio amplio y luminoso.
+
+
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas - Edificio "Puerta del Sol"
+
+
+
+
+
+Características principales:
+
+cuatro dormitorios, 
+
+cinco baños, 
+
+cocina con desayunador, campana extractora de aire, y taburetes, 
+
+living comedor amplio, 
+
+terraza balcón al frente y atrás, (barandas de acero inoxidable), con paños de vidrio laminado DVH, 
+
+parrilla de acero inoxidable, 
+
+estar y play-room. 
+
+VISTA FRENTE, hacia la calle Colon. 
+
+lavadero con termotanque, 
+
+espacios de cochera en el edificio
+
+aire condicionado en todos los ambientes
+
+termotanque
+
+
+
+
+
+
+
+El edificio cuenta con:
+
+quincho con parrilla
+
+cochera
+
+pileta
+
+terraza solárium
+
+hidromasaje, sauna, gimnasio, sum
+
+servicio de portería las 24 horas. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-213 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Excelente departamento de 3 dormitorios - Centro de Posadas',
+    'Colon N° 1940',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-55.8943233, -27.3652207), 4326),
+    'Departamento',
+    3,
+    127,
+    349418.0,
+    'ARS',
+    $$ ORENSE Propiedades te presenta este exclusivo departamento que combina lujo, confort y una ubicación privilegiada en el centro de la ciudad de Posadas.
+
+Tiene todas las comodidades que necesitas, en un espacio amplio y luminoso.
+
+
+
+
+
+Ubicación: Colón 1940, ciudad de Posadas - Edificio "Puerta del Sol"
+
+
+
+
+
+Características principales:
+
+tres dormitorios,
+
+tres baños,
+
+cocina,
+
+living comedor amplio,
+
+balcón, 
+
+parrilla,
+
+lavadero con termotanque,
+
+aire condicionado en todos los ambientes
+
+termotanque
+
+cochera
+
+
+
+
+
+
+
+El edificio cuenta con:
+
+quincho con parrilla
+
+cochera
+
+pileta
+
+terraza solárium
+
+hidromasaje, sauna, gimnasio, sum
+
+servicio de portería las 24 horas. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
+----- QUERY PARA URL: https://www.orensepropiedades.com/orense-206 -----
+INSERT INTO Propiedad (
+    agente_nombre, titulo, direccion, ciudad, ubicacion, tipo_propiedad, ambientes, metros_cuadrados,
+    precio_alquiler, moneda, descripcion_manual, descripcion_ia, amenities
+) VALUES (
+    'Orense Propiedades',
+    'Local comercial céntrico. Ideal para inversión.',
+    'Colón N° 1824',
+    'Posadas',
+    ST_SetSRID(ST_MakePoint(-58.5779208, -34.5621807), 4326),
+    'Departamento',
+    0,
+    150,
+    1200000.0,
+    'ARS',
+    $$ En ORENSE Propiedades tenemos a la venta este céntrico local comercial en planta baja.
+
+
+
+Oportunidad: ENTREGA 30% + saldo hasta en 60 meses
+
+
+
+
+
+Edificio "Masven" (Colon N° 1824, Posadas, ciudad de Posadas)
+
+
+
+Local comercial ubicado en planta baja.
+
+Superficie total: 150 m2
+
+. Salón comercial
+
+. Baño
+
+. Vista frente
+
+. Excelente ubicación sobre la vía pública. $$,
+    $$  $$,
+    '{"pileta": false, "mascotas_permitidas": true, "seguridad_24h": false}'
+);
+----- FIN QUERY -----
+
